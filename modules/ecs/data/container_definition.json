@@ -1,0 +1,9 @@
+{
+    "name": "${name}",
+    "imageUrl": "${imageUrl}",
+    "cpu": "${cpu}",
+    "memory": "${memory}",
+    "essential": "${essential}",
+    "portMappings": "${portMappings}",
+    "volume": "${volume}"
+  }
